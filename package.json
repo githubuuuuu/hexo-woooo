@@ -1,0 +1,26 @@
+{
+  "name": "hexo-woooo",
+  "version": "1.0.0",
+  "description": "Support original markdown image expressions with relative path when enabling post_asset_folder.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:githubuuuuu/hexo-woooo.git"
+  },
+  "keywords": [
+    "hexo",
+    "plugin",
+    "markdown",
+    "image",
+    "woooo"
+  ],
+  "author": "wm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/githubuuuuu/hexo-woooo/issues"
+  },
+  "homepage": "https://github.com/githubuuuuu/hexo-woooo#readme"
+}
